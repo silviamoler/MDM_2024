@@ -1,1 +1,2 @@
-# MDM_2024
+# **Interactive tool for visualisation of output of ML models**
+The file '_interactive tool_' contained in this repository are provided for readers of '_An approach for combining clinical judgment with machine learning to inform medical decision-making: analysis of non-emergency surgery strategies for acute appendicitis in patients with multiple long-term conditions_' published [here](https://doi.org/10.1177/0272989X24128933) to select among different graphical modes of presentation of the results of subgroup analysis conducted using LASSO+LIV.
